@@ -6,3 +6,7 @@ This is a project for CMSC818B (Behavioral Planning in Robotics). A very famous 
 
 
 <img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/fail_gif.gif" width="400" height="250">
+
+-**After training improvement in the learning where cart reach to the goal position**
+
+<img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/pass_gif.gif" width="400" height="250">
