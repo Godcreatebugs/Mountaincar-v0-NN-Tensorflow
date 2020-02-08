@@ -10,3 +10,17 @@ This is a project for CMSC818B (Behavioral Planning in Robotics). A very famous 
 - **After training improvement in the learning where cart reach to the goal position**
 
 <img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/pass_gif.gif" width="400" height="250">
+
+- **A policy which shows to push only to the one side(bad policy) and after training the updation of policy **
+
+- [x] bad policy
+
+<img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/policy_results_images/Policy.png" width="400" height="250">
+
+-[x] after leraning process
+
+<img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/policy_results_images/Policy%20-%20Modified.png" width="400" height="250">
+
+
+
+
