@@ -19,6 +19,7 @@ This is a project for CMSC818B (Behavioral Planning in Robotics). A very famous 
 
 - [x] after leraning process
 
+<p align="center">
 <img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/policy_results_images/Policy%20-%20Modified.png" width="400" height="400">
 
 - [x] **reward function shows that around 1000 iteration cart tries to reach at the top successfully.**
