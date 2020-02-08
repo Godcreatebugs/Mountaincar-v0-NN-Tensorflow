@@ -19,7 +19,7 @@ This is a project for CMSC818B (Behavioral Planning in Robotics). A very famous 
 <p align="center">
 <img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/policy_results_images/Policy.png" align="center" width="400" height="400">
 
-- [x] after leraning process
+- [x] **after leraning process**
 
 <p align="center">
 <img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/policy_results_images/Policy%20-%20Modified.png" width="400" height="400">
