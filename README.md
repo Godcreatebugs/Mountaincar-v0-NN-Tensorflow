@@ -4,4 +4,4 @@ This is a project for CMSC818B (Behavioral Planning in Robotics). A very famous 
 ** Cart try to rach at top but _fails_ ** 
 
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/fail_gif.gif" width="250">
