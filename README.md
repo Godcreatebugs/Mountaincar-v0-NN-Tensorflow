@@ -14,12 +14,12 @@ This is a project for CMSC818B (Behavioral Planning in Robotics). A very famous 
 
 - **A policy which shows to push only to the one side(bad policy) and after training the updation of policy**
 
-- [x] bad policy
+- [x] **bad policy**
 
 <p align="center">
 <img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/policy_results_images/Policy.png" align="center" width="400" height="400">
 
-- [x] **after leraning process**
+- [x] **after leraning process policy improves**
 
 <p align="center">
 <img src="https://github.com/Godcreatebugs/Mountaincar-v0-NN-Tensorflow/blob/master/policy_results_images/Policy%20-%20Modified.png" width="400" height="400">
